@@ -1,6 +1,6 @@
 # kottans_frontend
 task_0
-- New: all abour GitHub
+- New: all about GitHub
 - Surprised: many versions of files
 - To Use: GitHup
 
