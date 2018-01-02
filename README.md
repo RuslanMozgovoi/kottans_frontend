@@ -24,7 +24,7 @@ task_2
 
 - New: managing GitHub repositories by mean of Git
 - Surprised: you need to do a commit for every peace of change in a code
-- To Use: GitHub repositiries, git clone, git pull, git push
+- To Use: GitHub repositories, git clone, git pull, git push
 
 Links:
 2.1. Version Control with Git
