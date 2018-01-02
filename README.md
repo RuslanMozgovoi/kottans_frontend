@@ -20,3 +20,15 @@ https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_1/1.2.%20Con
 1.3. Networking for Web Developers
 https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_1/1.3.%20Networking%20for%20Web%20Developers.png
 
+task_2
+
+- New: managing GitHub repositories by mean of Git
+- Surprised: you need to do a commit for every peace of change in a code
+- To Use: GitHub repositiries, git clone, git pull, git push
+
+Links:
+2.1. Version Control with Git
+https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_2/2.1.%20Version%20Control%20with%20Git.png
+
+2.2. GitHub & Collaboration
+https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_2/2.2.%20GitHub%20&%20Collaboration.png?raw=true
