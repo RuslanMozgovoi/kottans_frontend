@@ -12,13 +12,13 @@ task_1
 
 Links:
 1.1. Linux Command Line Basics
-https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_1/1.1.%20Linux%20Command%20Line%20Basics.png
+https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_1/1.1.%20Linux%20Command%20Line%20Basics.png?raw=true
 
 1.2. Configuring Linux Web Servers
-https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_1/1.2.%20Configuring%20Linux%20Web%20Servers.png
+https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_1/1.2.%20Configuring%20Linux%20Web%20Servers.png?raw=true
 
 1.3. Networking for Web Developers
-https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_1/1.3.%20Networking%20for%20Web%20Developers.png
+https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_1/1.3.%20Networking%20for%20Web%20Developers.png?raw=true
 
 task_2
 
@@ -28,7 +28,7 @@ task_2
 
 Links:
 2.1. Version Control with Git
-https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_2/2.1.%20Version%20Control%20with%20Git.png
+https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_2/2.1.%20Version%20Control%20with%20Git.png?raw=true
 
 2.2. GitHub & Collaboration
 https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_2/2.2.%20GitHub%20&%20Collaboration.png?raw=true
