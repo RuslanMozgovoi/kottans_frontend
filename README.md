@@ -32,3 +32,9 @@ https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_2/2.1.%20Ver
 
 2.2. GitHub & Collaboration
 https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_2/2.2.%20GitHub%20&%20Collaboration.png?raw=true
+
+task_3
+
+- New: 
+- Surprised: In Developer Tools you can turn off/on any peace of style of CSS 
+- To Use:
