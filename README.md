@@ -40,4 +40,5 @@ task_3
 - To Use: DevTools
 
 Links:
-
+3. HTML and CSS Syntax
+https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_3/3.%20HTML%20and%20CSS%20Syntax.png?raw=true
