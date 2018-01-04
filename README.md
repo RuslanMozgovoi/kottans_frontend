@@ -35,6 +35,9 @@ https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_2/2.2.%20Git
 
 task_3
 
-- New: 
+- New: Online code editing with DevTools
 - Surprised: In Developer Tools you can turn off/on any peace of style of CSS 
-- To Use:
+- To Use: DevTools
+
+Links:
+
