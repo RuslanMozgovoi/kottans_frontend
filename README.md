@@ -52,4 +52,4 @@ task_4
 
 Links:
 4. Responsive Web Design Fundamentals
-
+https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_4/4.%20Responsive%20Web%20Design%20Fundamentals.png?raw=true
