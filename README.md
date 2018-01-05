@@ -42,3 +42,14 @@ task_3
 Links:
 3. HTML and CSS Syntax
 https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_3/3.%20HTML%20and%20CSS%20Syntax.png?raw=true
+
+
+task_4
+
+- New: All about responsive web design
+- Surprised: @media query that allows you to change the whole style for different screens
+- To Use: @media, flexbox, navigation hamburger
+
+Links:
+4. Responsive Web Design Fundamentals
+
