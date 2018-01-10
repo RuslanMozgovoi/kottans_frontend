@@ -7,20 +7,20 @@
 ## **Task 1**
 
 - New: terminals and VM
-- Surprised: most developers vork on VM
-- To Use: linux comand line
+- Surprised: most developers work on VM
+- To Use: linux command line
 
 Links:
 1.1. Linux Command Line Basics
 ![Linux Command Line Basics](task_1/1.1._Linux_Command_Line_Basics.png?raw=true "Optional Title")
 
 1.2. Configuring Linux Web Servers
-https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_1/1.2.%20Configuring%20Linux%20Web%20Servers.png?raw=true
+![Configuring Linux Web Servers](task_1/1.2._Configuring_Linux_Web_Servers.png?raw=true "Optional Title")
 
 1.3. Networking for Web Developers
-https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_1/1.3.%20Networking%20for%20Web%20Developers.png?raw=true
+![Networking for Web Developers](task_1/1.3._Networking_for_Web_Developers.png?raw=true "Optional Title")
 
-task_2
+## **Task 2**
 
 - New: managing GitHub repositories by mean of Git
 - Surprised: you need to do a commit for every peace of change in a code
@@ -28,12 +28,12 @@ task_2
 
 Links:
 2.1. Version Control with Git
-https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_2/2.1.%20Version%20Control%20with%20Git.png?raw=true
+![Version Control with Git](task_2/2.1._Version_Control_with_Git.png?raw=true "Optional Title")
 
 2.2. GitHub & Collaboration
-https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_2/2.2.%20GitHub%20&%20Collaboration.png?raw=true
+![GitHub & Collaboration](task_2/2.2._GitHub_&_Collaboration.png?raw=true "Optional Title")
 
-task_3
+## **Task 3**
 
 - New: Online code editing with DevTools
 - Surprised: In Developer Tools you can turn off/on any peace of style of CSS 
@@ -41,10 +41,10 @@ task_3
 
 Links:
 3. HTML and CSS Syntax
-https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_3/3.%20HTML%20and%20CSS%20Syntax.png?raw=true
+![HTML and CSS Syntax](task_3/3._HTML_and_CSS_Syntax.png?raw=true "Optional Title")
 
 
-task_4
+## **Task 4**
 
 - New: All about responsive web design
 - Surprised: @media query that allows you to change the whole style for different screens
@@ -52,4 +52,16 @@ task_4
 
 Links:
 4. Responsive Web Design Fundamentals
-https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_4/4.%20Responsive%20Web%20Design%20Fundamentals.png?raw=true
+![Responsive Web Design Fundamentals](task_4/4._Responsive_Web_Design_Fundamentals.png?raw=true "Optional Title")
+
+## **Task 5**
+
+- New: There was nothing new for me, because I've already known basic of Javascript. But it was a good way to recall
+- Surprised: not so much
+- To Use: conditionals, loops, arrays, objects
+
+Links:
+5. Intro to JavaScript
+![Intro to JavaScript](task_5/5._Intro_to_JavaScript.png?raw=true "Optional Title")
+
+
