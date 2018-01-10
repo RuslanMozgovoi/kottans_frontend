@@ -1,10 +1,10 @@
 # kottans_frontend
-task_0
+## **Task 0**
 - New: all about GitHub
 - Surprised: many versions of files
 - To Use: GitHup
 
-task_1
+## **Task **
 
 - New: terminals and VM
 - Surprised: most developers vork on VM
@@ -12,7 +12,7 @@ task_1
 
 Links:
 1.1. Linux Command Line Basics
-https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_1/1.1.%20Linux%20Command%20Line%20Basics.png?raw=true
+![Linux Command Line Basics] (task_1/1.1. Linux Command Line Basics.png?raw=true "Optional Title")
 
 1.2. Configuring Linux Web Servers
 https://github.com/RuslanMozgovoi/kottans_frontend/blob/master/task_1/1.2.%20Configuring%20Linux%20Web%20Servers.png?raw=true
